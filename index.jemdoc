@@ -19,7 +19,9 @@ E-mail: /jeaninezpp@gmail.com (prior), zhangpei@nudt.edu.cn/ \n
 
 == News!
 {{<a id="news" name="news" class="anchor"></a>}}
-
+\[2022.06\]~~One paper is accepted by /*AAAI*/.\n
+\[2021.10\]~~One paper is accepted by /*IEEE Transactions on Image Processing*/.\n
+\[2021.11\]~~One paper is accepted by /*International Journal of Intelligent Systems*/.\n
 \[2020.12\]~~One paper is accepted by /*IEEE TMM*/. \[[https://ieeexplore.ieee.org/document/9447203 link]\] \n
 \[2020.12\]~~One paper is accepted by /*IEEE TKDE*/. \[[https://ieeexplore.ieee.org/document/9298842 link]\] \n
 \[2020.10\]~~One paper is accepted by /*Sensors*/. \[[https://www.mdpi.com/1424-8220/20/20/5755 link]\] \n
@@ -48,16 +50,17 @@ I work in the field of machine learning and data mining. Currently, I focus on t
 == Publication
 {{<a id="pub" name="pub" class="anchor"> </a>}}
 
-Journal:
 # . \[*TNNLS'01*\]~~*Jiyuan Liu*, Xinwang Liu\*, Yuexiang Yang, Xifeng Guo, Marius Kloft, Liangzhong He: {{<u>Multi-view Subspace Clustering via Co-training Robust Data Representation</u>}}. IEEE Transactions on Neural Networks and Learning Systems, TNNLS. (Accepted Mar. 2021) \[[pubs/CoMSC_TNNLS.pdf PDF]\] \[[pubs/CoMSC_appendix.pdf Appendix]\] \[[https://github.com/liujiyuan13/CoMSC-code_release Code]\] \[[bibs/CoMSC_TNNLS.bib Bib]\]
-
+. Liu Suyuan, Wang Siwei, *Zhang Pei*, Xu Kai, Liu Xinwang, Zhang Changwang, Gao Feng. "Efficient one-pass multi-view subspace clustering with consensus anchors",Proceedings of the AAAI Conference on Artificial Intelligence,(2022).
+. Wang Siwei, Liu Xinwang, Zhu Xinzhong, *Zhang Pei*, Zhang Yi, Gao Feng, Zhu En. Fast parameter-free multi-view subspace clustering with consensus anchor guidance,IEEE Transactions on Image Processing,(2021).
+. Cheng Zhen, Wang Siwei, *Zhang Pei*, Wang Siqi, Liu Xinwang, Zhu En. Improved autoencoder for unsupervised anomaly detection,International Journal of Intelligent Systems,(2021).
+. Sun Mengjing, *Zhang Pei*, Wang Siwei, Zhou Sihang, Tu Wenxuan, Liu Xinwang, Zhu En, Wang Changjian. Scalable multi-view subspace clustering with unified anchors,Proceedings of the 29th ACM International Conference on Multimedia,(2021).
 . Sun Mengjing, Wang Siwei, *Zhang Pei*, Liu Xinwang, Guo Xifeng, Sihang Zhou, and En
 Zhu. "Projective Multiple Kernel Subspace Clustering." /*IEEE Transactions on Multimedia (TMM)*/, (2021). \[[https://ieeexplore.ieee.org/abstract/document/9447203 Link]\]~\[[https://github.com/MengjingSun/PMKSC-code Code]\]
 . *Zhang, Pei*, Xinwang Liu, Jian Xiong, Sihang Zhou, Wentao Zhao, En Zhu, and Zhiping Cai. "Consensus One-step Multi-view Subspace Clustering." /*IEEE Transactions on Knowledge and Data Engineering (TKDE)*/, (2020). \[[https://ieeexplore.ieee.org/abstract/document/9298842 Link]\]~\[[paper/COMVSC.pdf PDF]\]~\[[https://github.com/Jeaninezpp/COMVSC Code]\]~\[[bibtex.html\#zhangcomvsc2020 BibTeX]\]
 . *Zhang, Pei*, Siwei Wang, Jingtao Hu, Zhen Cheng, Xifeng Guo, En Zhu, and Zhiping Cai.
 "Adaptive Weighted Graph Fusion Incomplete Multi-View Subspace Clustering." /*Sensors*/, (2020). \[[https://www.mdpi.com/1424-8220/20/20/5755 Link]\]~\[[paper/sensors.pdf PDF]\]~\[[https://github.com/Jeaninezpp/AWGF-code Code]\]
 . *Zhang, Pei*, Xinwang Liu, Jian Xiong, Sihang Zhou, Wentao Zhao, En Zhu, and Zhiping Cai. "One-stage Partition-fusion Multi-view Subspace Clustering Algorithm." /*Journal of Frontiers of Computer Science and Technology*/, (2020). \[[http://fcst.ceaj.org/CN/10.3778/j.issn.1673-9418.2009070 Link]\]
-# . *Zhang, Pei*, Xinwang Liu, Jian Xiong, Sihang Zhou, Wentao Zhao, En Zhu, and Zhiping Cai. "Consensus One-step Multi-view Subspace Clustering." /*IEEE Transactions on Knowledge and Data Engineering (TKDE)*/, (2020). \[[https://ieeexplore.ieee.org/abstract/document/9298842 Link]\]~\[[paper/COMVSC.pdf PDF]\]~\[[https://github.com/Jeaninezpp/COMVSC Code]\]~ 
 
 
 # [publications.html Full list of publications].
